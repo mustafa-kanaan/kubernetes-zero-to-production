@@ -205,7 +205,7 @@ Pull requests are welcome. Please keep the spirit of the series: **practical, pr
 
 <div align="center">
 
-**Built with care by [Mustafa Kanaan](https://github.com/mustafakanaan)**
+**Built with care by [Mustafa Kanaan](https://github.com/mustafa-kanaan)**
 
 *If this series helped you land a job, pass a certification, or survive a production incident —*
 *that's exactly why I wrote it.* ⭐
