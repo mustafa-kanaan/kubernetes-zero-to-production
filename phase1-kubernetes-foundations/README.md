@@ -131,7 +131,6 @@ A Kubernetes **cluster** is made up of two logical layers:
 | `kube-proxy` | Maintains network rules on each node; enables Service-to-Pod routing |
 | Container runtime | The engine that actually runs containers (e.g., `containerd`, `CRI-O`) |
 
-> **Telecom analogy:** Think of the Kubernetes control plane like an **NMS (Network Management System)**. Just as an NMS monitors network elements and reroutes traffic around failures without manual intervention, the Kubernetes control plane monitors Pods, reschedules failed workloads, and re-routes traffic to healthy endpoints — automatically, 24/7.
 
 ---
 
